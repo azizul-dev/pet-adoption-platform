@@ -46,11 +46,11 @@ The platform also allows pet owners to manage listings, approve or reject adopti
 
 # 🖼️ Project Preview
 
-<img src="./public/images/red3.png" width="100%" />
+<img src="./public/images/red1.png" width="100%" />
 
 <br/>
 
-<img src="./public/images/red1.png" width="100%" />
+<img src="./public/images/red2.png" width="100%" />
 
 <br/>
 
