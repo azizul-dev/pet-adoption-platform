@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./public/images/red1.png" width="100%" />
+<img src="https://raw.githubusercontent.com/azizul-dev/assignment-9/main/public/images/logo.png" width="120px" />
 
 # 🐾 Pet Adoption Platform
 
@@ -24,6 +24,20 @@ The platform also allows pet owners to manage listings, approve or reject adopti
 
 ---
 
+# 🖼️ Project Preview
+
+<img src="https://raw.githubusercontent.com/azizul-dev/assignment-9/main/public/images/1.png" width="100%" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/azizul-dev/assignment-9/main/public/images/2.png" width="100%" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/azizul-dev/assignment-9/main/public/images/4.png" width="100%" />
+
+---
+
 # 🚀 Features
 
 ✅ JWT Authentication with HTTPOnly Cookies  
@@ -44,20 +58,6 @@ The platform also allows pet owners to manage listings, approve or reject adopti
 
 ---
 
-# 🖼️ Project Preview
-
-<img src="./public/images/red1.png" width="100%" />
-
-<br/>
-
-<img src="./public/images/red2.png" width="100%" />
-
-<br/>
-
-<img src="./public/images/red3.png" width="100%" />
-
----
-
 # 🛠️ Technologies Used
 
 ## Frontend
@@ -69,8 +69,6 @@ The platform also allows pet owners to manage listings, approve or reject adopti
 - Framer Motion
 - React Icons
 - React Hot Toast
-
----
 
 ## Backend
 
@@ -104,8 +102,6 @@ Users can:
 - Filter pets by species
 - View pet details
 
----
-
 ## ❤️ Adoption System
 
 Authenticated users can:
@@ -113,8 +109,6 @@ Authenticated users can:
 - Select pickup date
 - Add custom messages
 - Track request status
-
----
 
 ## 📋 Dashboard Features
 
@@ -140,21 +134,15 @@ The entire website is optimized for:
 
 # 🌐 Live Links
 
-## Client Side
-👉 https://assignment-9-beta.vercel.app/
-
-## Server Side
-👉 https://assignment-server.vercel.app/
+**Client Side:** 👉 https://assignment-9-beta.vercel.app/  
+**Server Side:** 👉 https://assignment-server.vercel.app/
 
 ---
 
 # 💻 GitHub Repositories
 
-## Client Repository
-👉 https://github.com/azizul-dev/assignment-9
-
-## Server Repository
-👉 https://github.com/azizul-dev/assignment-server
+**Client Repo:** 👉 https://github.com/azizul-dev/assignment-9  
+**Server Repo:** 👉 https://github.com/azizul-dev/assignment-server
 
 ---
 
@@ -164,3 +152,12 @@ The entire website is optimized for:
 
 ```env
 NEXT_PUBLIC_API_URL=
+```
+
+## Server
+
+```env
+DB_USER=
+DB_PASS=
+ACCESS_TOKEN_SECRET=
+```
